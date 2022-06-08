@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.69" height="57.038" viewBox="0 0 35.69 57.038">
+  <g id="boneco_cima_esq" transform="translate(0 0)">
+    <ellipse id="Elipse_128" data-name="Elipse 128" cx="17.845" cy="17.845" rx="17.845" ry="17.845" transform="translate(0 13.666)" fill="#2f2e41"/>
+    <rect id="Retângulo_117" data-name="Retângulo 117" width="5.421" height="9.713" transform="translate(9.713 45.517)" fill="#2f2e41"/>
+    <rect id="Retângulo_118" data-name="Retângulo 118" width="5.421" height="9.713" transform="translate(20.556 45.517)" fill="#2f2e41"/>
+    <ellipse id="Elipse_129" data-name="Elipse 129" cx="4.518" cy="1.694" rx="4.518" ry="1.694" transform="translate(9.713 53.649)" fill="#2f2e41"/>
+    <ellipse id="Elipse_130" data-name="Elipse 130" cx="4.518" cy="1.694" rx="4.518" ry="1.694" transform="translate(20.556 53.423)" fill="#2f2e41"/>
+    <ellipse id="Elipse_131" data-name="Elipse 131" cx="6.099" cy="6.099" rx="6.099" ry="6.099" transform="translate(12.197 20.895)" fill="#fff"/>
+    <ellipse id="Elipse_132" data-name="Elipse 132" cx="2.025" cy="2.039" rx="2.025" ry="2.039" transform="translate(17.497 28.226) rotate(-44.987)" fill="#3f3d56"/>
+    <path id="Caminho_289" data-name="Caminho 289" d="M395.941,235.853c-1.441-6.453,3.165-12.974,10.288-14.564s14.065,2.352,15.506,8.8-3.28,8.833-10.4,10.424S397.382,242.306,395.941,235.853Z" transform="translate(-395.406 -220.937)" fill="#3f3d56"/>
+  </g>
+</svg>

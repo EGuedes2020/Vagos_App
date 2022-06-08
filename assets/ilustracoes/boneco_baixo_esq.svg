@@ -1,0 +1,13 @@
+<svg id="boneco_baixo_esq" xmlns="http://www.w3.org/2000/svg" width="51.657" height="57.037" viewBox="0 0 51.657 57.037">
+  <ellipse id="Elipse_121" data-name="Elipse 121" cx="8.923" cy="2.801" rx="8.923" ry="2.801" transform="matrix(0.357, -0.934, 0.934, 0.357, 40.053, 25.373)" fill="#2f2e41"/>
+  <ellipse id="Elipse_122" data-name="Elipse 122" cx="17.845" cy="17.845" rx="17.845" ry="17.845" transform="translate(8.888 46.268) rotate(-80.783)" fill="#2f2e41"/>
+  <rect id="Retângulo_115" data-name="Retângulo 115" width="5.421" height="9.713" transform="translate(21.229 45.518)" fill="#2f2e41"/>
+  <rect id="Retângulo_116" data-name="Retângulo 116" width="5.421" height="9.713" transform="translate(32.071 45.518)" fill="#2f2e41"/>
+  <ellipse id="Elipse_123" data-name="Elipse 123" cx="4.518" cy="1.694" rx="4.518" ry="1.694" transform="translate(21.229 53.649)" fill="#2f2e41"/>
+  <ellipse id="Elipse_124" data-name="Elipse 124" cx="4.518" cy="1.694" rx="4.518" ry="1.694" transform="translate(32.071 53.424)" fill="#2f2e41"/>
+  <ellipse id="Elipse_125" data-name="Elipse 125" cx="6.099" cy="6.099" rx="6.099" ry="6.099" transform="matrix(1, -0.029, 0.029, 1, 23.537, 21.078)" fill="#fff"/>
+  <ellipse id="Elipse_126" data-name="Elipse 126" cx="2.033" cy="2.033" rx="2.033" ry="2.033" transform="translate(27.779 24.961)" fill="#3f3d56"/>
+  <path id="Caminho_279" data-name="Caminho 279" d="M366.222,556.1c-1.441-6.453,3.165-12.974,10.288-14.564s14.065,2.352,15.506,8.8-3.28,8.833-10.4,10.424S367.663,562.555,366.222,556.1Z" transform="translate(-354.171 -541.186)" fill="#ffd400"/>
+  <ellipse id="Elipse_127" data-name="Elipse 127" cx="2.801" cy="8.923" rx="2.801" ry="8.923" transform="translate(0 21.939) rotate(-64.626)" fill="#2f2e41"/>
+  <path id="Caminho_280" data-name="Caminho 280" d="M387.217,629.714c0,1.746,4.5,5.2,9.487,5.2s9.669-4.917,9.669-6.664-4.679.339-9.669.339S387.217,627.966,387.217,629.714Z" transform="translate(-366.622 -591.763)" fill="#fff"/>
+</svg>

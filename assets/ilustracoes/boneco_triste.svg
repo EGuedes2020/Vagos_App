@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91.858" height="124.098" viewBox="0 0 91.858 124.098">
+  <g id="boneco_triste" transform="translate(-8.67)">
+    <ellipse id="Elipse_121" data-name="Elipse 121" cx="19.413" cy="6.094" rx="19.413" ry="6.094" transform="translate(89.826 47.19) rotate(74)" fill="#2f2e41"/>
+    <ellipse id="Elipse_122" data-name="Elipse 122" cx="38.826" cy="38.826" rx="38.826" ry="38.826" transform="translate(8.888 100.666) rotate(-80.783)" fill="#2f2e41"/>
+    <rect id="Retângulo_115" data-name="Retângulo 115" width="11.795" height="21.133" transform="translate(35.739 99.035)" fill="#2f2e41"/>
+    <rect id="Retângulo_116" data-name="Retângulo 116" width="11.795" height="21.133" transform="translate(59.33 99.035)" fill="#2f2e41"/>
+    <ellipse id="Elipse_123" data-name="Elipse 123" cx="9.829" cy="3.686" rx="9.829" ry="3.686" transform="translate(35.739 116.726)" fill="#2f2e41"/>
+    <ellipse id="Elipse_124" data-name="Elipse 124" cx="9.829" cy="3.686" rx="9.829" ry="3.686" transform="translate(59.33 116.236)" fill="#2f2e41"/>
+    <ellipse id="Elipse_125" data-name="Elipse 125" cx="13.27" cy="13.27" rx="13.27" ry="13.27" transform="matrix(1, -0.029, 0.029, 1, 40.76, 45.859)" fill="#fff"/>
+    <ellipse id="Elipse_126" data-name="Elipse 126" cx="4.423" cy="4.423" rx="4.423" ry="4.423" transform="translate(54.342 58.659)" fill="#3f3d56"/>
+    <path id="Caminho_279" data-name="Caminho 279" d="M366.532,573.64c-3.135-14.04,6.886-28.227,22.384-31.688s30.6,5.116,33.736,19.156-7.135,19.219-22.633,22.679S369.667,587.68,366.532,573.64Z" transform="translate(-350.762 -541.186)" fill="#3f3d56"/>
+    <ellipse id="Elipse_127" data-name="Elipse 127" cx="6.094" cy="19.413" rx="6.094" ry="19.413" transform="translate(20.444 92.633) rotate(-165)" fill="#2f2e41"/>
+    <path id="Caminho_280" data-name="Caminho 280" d="M0,3.957C0,7.038,7.934,10.3,16.738,10.3S33.8,4.448,33.8,1.366s-8.255,5.85-17.059,5.85S0,.874,0,3.957Z" transform="translate(76.159 91.756) rotate(180)" fill="#fff"/>
+  </g>
+</svg>
