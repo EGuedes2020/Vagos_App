@@ -1,6 +1,15 @@
 # vagos_app
 
-Aplicação para promover o turismo em Vagos.
+Aplicação para promover o turismo de Vagos.
+Criada utilizando Flutter, em 2021, em contexto universitário. 
+
+-- Poderá instalar a aplicação num dispositivo real pelo seguinte link: https://drive.google.com/file/d/1S-OXTNkLetBpFJIRrmSv3WZ_KmZzRjpt/view?usp=sharing --
+
+Se desejar, visite o site: http://www.vagosapp.ga/ , um site que criei com wordpress para complementar o meu projeto universitário. Poderá aprender mais sobre a aplicação e ver outras habilidades minhas como motion graphics.
+
+Com os melhores cumprimentos,
+Ema Guedes.
+
 
 ## Getting Started
 
